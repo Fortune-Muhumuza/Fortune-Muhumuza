@@ -6,6 +6,7 @@ Specialises in;
 - React
 - Node
 - NextJs
+- PHP
 - Angular
 - 💬 Ask me about Javascript and node
 - 📫 How to reach me: fortunemuhumuza@gmail.com  
